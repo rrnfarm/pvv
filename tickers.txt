@@ -1,0 +1,6 @@
+# One or more tickers per line (spaces or commas). Lines starting with # are ignored.
+# Tickers ending in -USD (e.g. BTC-USD) automatically use the crypto settings.
+SPY
+QQQ
+NVDA
+GLD

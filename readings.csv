@@ -1,0 +1,5 @@
+date,ticker,close,buy,sell,range_pos,trend,trend_line,check_vwap,check_sma,check_1mo,vol_pct,volume_x
+2026-11-05,GLD,375.49,357.04,379.01,84.0,Bearish,393.35,False,False,False,1.28,1.18
+2026-11-05,NVDA,181.6,177.91,209.76,11.6,Bearish,219.6,False,True,False,3.22,1.41
+2026-11-05,QQQ,647.05,633.88,708.71,17.6,Bearish,717.42,False,True,False,2.16,1.44
+2026-11-05,SPY,733.0,720.13,777.06,22.6,Bearish,765.9,False,True,False,1.49,1.41
